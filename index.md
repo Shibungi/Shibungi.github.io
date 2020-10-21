@@ -2,7 +2,7 @@
 layout: default
 ---
 ## プロフィール
-
+Shibungi とか 4b とか
 <!--
 森 直也
 -->
